@@ -11,3 +11,11 @@ Contents:
 - Narrative source set: 31 documents / 19 organizations
 - Conference source set: 3,075 talks / 20 conferences
 - Expo and patent source descriptions
+
+## License
+
+Unless otherwise noted, the research materials, datasets, tables and
+supporting documentation in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+© 2026 Yuriy But.
