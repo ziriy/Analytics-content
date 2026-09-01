@@ -1,0 +1,13 @@
+# Security Forecast 2026–2028 — Research Data
+
+Supporting material for:
+Part 3. Security Forecast 2026–2028: Same Market, Two Different Maps
+
+Research cutoff: 28 July 2026.
+
+Contents:
+- Broader Sample: 66 companies
+- Action taxonomy: 10 domains / 57 directions
+- Narrative source set: 31 documents / 19 organizations
+- Conference source set: 3,075 talks / 20 conferences
+- Expo and patent source descriptions
