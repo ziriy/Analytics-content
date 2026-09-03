@@ -5,7 +5,13 @@ Part 3. Security Forecast 2026–2028: Same Market, Two Different Maps
 
 Research cutoff: 28 July 2026.
 
-Contents:
+## Research material
+
+- [Methodology](methodology-part3.md) — evidence model, sampling, inclusion/exclusion rules, counting methodology and limitations.
+- [Research Appendix](appendix-part3.md) — Broader Sample, Action taxonomy and source universes.
+
+### Dataset scope
+
 - Broader Sample: 66 companies
 - Action taxonomy: 10 domains / 57 directions
 - Narrative source set: 31 documents / 19 organizations
