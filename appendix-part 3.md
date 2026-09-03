@@ -11,7 +11,7 @@ Article:
 
 For definitions, inclusion and exclusion rules, counting methodology, classification principles and limitations, see:
 
-**[Methodology](methodology.md)**
+**[Methodology](methodology-part3.md)**
 
 ---
 
