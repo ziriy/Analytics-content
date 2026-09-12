@@ -7,7 +7,7 @@ Research cutoff: 12 September 2026.
 
 ## Research material
 
-- [Appendix](anatomy-of-exposure-v16-appendix.md) — Sources.
+- [Appendix](Appendix.md) — Sources.
 
 
 ## License
