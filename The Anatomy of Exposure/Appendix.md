@@ -1,6 +1,6 @@
 # Appendix: Sources
 
-The numbering corresponds to the references used in the article. All links were checked on 12 September 2026.
+The numbering corresponds to the references used in the article. The date of links review is 12 September 2026.
 
 **[1]** Approximately 15,000 exposures per organisation; vulnerabilities with CVEs account for less than one per cent of that number; roughly 80 per cent of exposures are identity and credential misconfigurations. XM Cyber and the Cyentia Institute, *Navigating the Paths of Risk: The State of Exposure Management*, third annual edition, May 2024. Press release: https://www.prnewswire.com/news-releases/xm-cyber-report-finds-80-of-security-exposures-are-fueled-by-misconfigurations-302136164.html
 
