@@ -51,7 +51,7 @@ The bulletin is marked as amended, with a last update of 6 May 2026. Vendor comm
 
 ---
 
-Data Sources
+## Data Sources
 
 **Gartner — CTEM**
 > "a set of processes and capabilities that allow enterprises to continually and consistently evaluate the accessibility, exposure and exploitability of an enterprise's digital and physical assets"
@@ -128,7 +128,7 @@ https://www.trendmicro.com/en_gb/what-is/attack-surface/exposure-management.html
 https://www.ibm.com/services/vulnerability-management
 
 **XM Cyber**
-"We define an 'exposure' as any combination of a vulnerable resource and credible threat technique along an attack path." — https://xmcyber.com/blog/want-to-fix-exposure-management/ 
+> "We define an 'exposure' as any combination of a vulnerable resource and credible threat technique along an attack path." — https://xmcyber.com/blog/want-to-fix-exposure-management/ 
 "Exposure management is a proactive cybersecurity strategy to find, assess, and fix weaknesses across an organization's entire digital footprint (assets, identities, cloud, etc.) to reduce the risk of cyberattacks." — https://xmcyber.com/glossary/exposure-management/ 
 https://xmcyber.com/navigating-the-paths-of-risk-the-state-of-exposure-management-in-2024/ "Exposures are combinations of techniques and entities susceptible to those techniques";
 
@@ -229,7 +229,7 @@ https://support.securityscorecard.com/hc/en-us/articles/8366223642651-How-Securi
 https://www.upguard.com/press/upguard-unveils-the-future-of-cyber-security-with-the-first-ai-powered-crpm-platform
 
 **Francis Odum — Software Analyst Cyber Research**
-Market Guide 2025: Evolution of Modern Risk and Exposure Management Platforms
+> Market Guide 2025: Evolution of Modern Risk and Exposure Management Platforms
 https://softwareanalyst.substack.com/p/market-guide-2025-evolution-of-modern 
 
 **Omdia**
