@@ -48,3 +48,201 @@ The bulletin is marked as amended, with a last update of 6 May 2026. Vendor comm
 **[13]** Approximately 1.5 per cent of exposures sit on choke points. XM Cyber, 2024 report: https://xmcyber.com/navigating-the-paths-of-risk-the-state-of-exposure-management-in-2024/ (verbatim anchor: "a similar ratio (1.5%)"). The same page also carries the headline figure "~2% of exposures affect critical assets and/or represent choke points" — both values appear within the 2024 edition itself.
 
 ---
+
+Data Sources
+**Gartner — CTEM**
+> "a set of processes and capabilities that allow enterprises to continually and consistently evaluate the accessibility, exposure and exploitability of an enterprise's digital and physical assets"
+https://www.gartner.com/en/documents/4016760
+
+**Gartner — CTEM 2025**
+«Use Continuous Threat Exposure Management to Reduce Cyberattacks», Nunez / Shoard / Schneider
+https://www.gartner.com/en/documents/6735134
+
+**Gartner — EAP**
+> "Exposure assessment platforms (EAPs) continuously identify and prioritize exposures, such as vulnerabilities and misconfigurations, across a broad range of asset classes. They natively deliver or integrate with discovery capabilities... EAPs use techniques like threat intelligence (TI) to analyze an organization's attack surfaces and weaknesses, and prioritize treatment efforts for high-risk exposures by incorporating threat landscape, business and existing security control context."
+https://www.gartner.com/reviews/market/exposure-assessment-platforms
+
+**Gartner — AEV**
+Market Guide for Adversarial Exposure Validation, Ahlm / Poole et al., https://www.gartner.com/en/documents/6255151
+
+**Forrester — UVM**
+> "a solution that serves as the primary book of record for all organizational vulnerabilities and improves and facilitates remediation workflows"
+https://www.forrester.com/blogs/announcing-the-forrester-wave-unified-vulnerability-management-wave-q3-2025
+
+**Forrester — proactive security**
+> "visibility, prioritization, and remediation... All of these improved prioritizations make no difference if we don't fix the identified and validated exposures"
+https://www.forrester.com/blogs/proactive-security-platforms-will-cumulate-visibility-prioritization-and-remediation/
+
+**IDC — Exposure Management 2025**
+IDC MarketScape WW Exposure Management Vendor Assessment
+
+**Tenable**
+> "Exposure management is a strategic, business-centric approach to cybersecurity designed to proactively reduce cyber risk."
+https://www.tenable.com/cybersecurity-guide/learn/what-is-exposure-management
+«Chain Prevented»: https://docs.tenable.com/exposure-management/Content/attack-path/top-attack-paths.htm 
+
+**Wiz (Google Cloud)**
+> "A vulnerability is a weakness in code, configuration, or design that could be exploited. An exposure is a vulnerability that is actually reachable by an attacker due to factors like internet accessibility, excessive permissions, or missing compensating controls. Think of it this way: a vulnerability is a door with a weak lock. An exposure is that same door left open and facing the street."
+https://www.wiz.io/academy/cloud-security/exposure-management-in-cybersecurity
+
+**CrowdStrike**
+> "exposure management is an organization's process of identifying, assessing, and addressing security risks associated with exposed digital assets"
+https://www.crowdstrike.com/en-us/cybersecurity-101/exposure-management/
+
+**Palo Alto Networks**
+> "Exposure management is a strategic, proactive approach to identifying, validating, and prioritizing an organization's cyber exposures across assets, identities, misconfigurations, and vulnerabilities. It shifts focus from reactive patching to risk reduction... In near real time, exposure management aligns threat intelligence, attack surface visibility, and exploitability insights."
+https://www.paloaltonetworks.com/cyberpedia/exposure-management
+
+**Rapid7**
+> "Exposure management is a cybersecurity discipline focused on identifying, assessing, and reducing the security exposures that create real, exploitable risk to an organization."
+https://www.rapid7.com/fundamentals/what-is-exposure-management/ 
+https://www.rapid7.com/blog/post/em-rapid7-leader-2025-gartner-exposure-assessment-platform-magic-quadrant-mq-eap/
+
+**Microsoft**
+> "Microsoft Security Exposure Management is a security solution that provides a unified view of security posture across company assets and workloads... enriches asset information with security context that helps you to proactively manage attack surfaces, protect critical assets, and explore and mitigate exposure risk"
+https://learn.microsoft.com/en-us/security-exposure-management/microsoft-security-exposure-management
+
+**ServiceNow**
+> "Unified Security Exposure Management (USEM) is ServiceNow's next-generation platform that unifies vulnerabilities, misconfigurations and other exposures across infrastructure, applications, containers, and cloud resources into a single, consistent architecture."
+https://store.servicenow.com/store/app/89440738537d765472c95a01a0490e93
+https://www.servicenow.com/community/secops-articles/usem-release-highlights-and-upgrade-information/ta-p/3438714
+
+**Qualys**
+> "Exposure management evaluates risk in context. By correlating vulnerabilities, misconfigurations, identities, and asset criticality, organizations can identify which conditions truly increase the likelihood or impact of attack."
+https://www.qualys.com/fundamentals/what-is-exposure-management
+https://blog.qualys.com/product-tech/2024/10/09/qualys-launches-enterprise-trurisk-management-the-industrys-first-cloud-based-risk-operations-center 
+
+**Check Point**
+> "safe, preemptive remediation—so risks aren't just identified, they're eliminated... virtual patching, activating IPS protections, and enforcing compensating controls—validated for zero business disruption"
+https://www.checkpoint.com/exposure-management/
+
+**Trend Micro → TrendAI**
+> "Trend Vision One™ offers a Cyber Risk and Exposure Management (CREM) solution that ensures organizations can go beyond just ASM to reduce their cyber risk footprint"
+https://www.trendmicro.com/en_us/what-is/attack-surface/cyber-risk-management.html 
+https://www.trendmicro.com/en_gb/what-is/attack-surface/exposure-management.html
+
+**IBM**
+> "Prioritize the remediation of flaws with and without CVEs, such as misconfigurations, default passwords and weak permissions."
+https://www.ibm.com/services/vulnerability-management
+
+**XM Cyber**
+"We define an 'exposure' as any combination of a vulnerable resource and credible threat technique along an attack path." — https://xmcyber.com/blog/want-to-fix-exposure-management/ 
+"Exposure management is a proactive cybersecurity strategy to find, assess, and fix weaknesses across an organization's entire digital footprint (assets, identities, cloud, etc.) to reduce the risk of cyberattacks." — https://xmcyber.com/glossary/exposure-management/ 
+https://xmcyber.com/navigating-the-paths-of-risk-the-state-of-exposure-management-in-2024/ "Exposures are combinations of techniques and entities susceptible to those techniques";
+
+**Armis**
+> "Armis Centrix™ is the cyber exposure management platform that delivers real-time visibility, risk assessment and proactive protection of the entire digital attack surface"
+https://www.armis.com/platform/armis-centrix/ | **[V]** (перепроверено 13.09.2026, дословно) | КАТЕГОРИЯ/ПРОЦЕСС
+
+**Zafran**
+> "Map exposures to compensating controls... Existing control mitigations"; Mitigate и Remediate 
+https://www.zafran.io/platform 
+
+**Seemplicity** «Agentic Exposure Management / Exposure Action Platform»
+> "Agentic Exposure Management uses autonomous AI agents to investigate, prioritize, and drive the remediation of exposures across an organization, closing the gap between finding a risk and actually fixing it."
+https://seemplicity.ai/platform/
+
+**Axonius**
+> "Exposures consolidates vulnerabilities, misconfigurations, policy violations, and posture gaps from all of your security tools into one contextual view tied to the assets they impact."
+https://www.axonius.com/platform/exposures
+https://www.axonius.com/newsroom/press-release/axonius-delivers-ai-powered-remediation 
+https://www.axonius.com/blog/forrester-proactive-security-platforms-landscape 
+
+**ArmorCode**
+> "UEM is not a product category. It is an approach"
+https://www.armorcode.com/learning-center/what-is-exposure-management-the-complete-guide
+
+**Claroty**
+> "Risk = Likelihood x Impact - Compensating Controls"
+> "Claroty found that 38% of the riskiest CPS assets are overlooked by traditional approaches to vulnerability management" 
+https://claroty.com/blog/inside-clarotys-exposure-management-capabilities-for-cyber-physical-systems
+https://web-assets.claroty.com/resource-downloads/exposure-management-best-practices-wp.pdf 
+
+**Fortinet** 
+> "CTEM is a framework that relies on a proactive, continuous approach to identifying, validating, and prioritizing the exposures that matter most"
+https://www.fortinet.com/resources/cyberglossary/ctem 
+https://www.fortinet.com/demo-center/fortirecon-demo 
+
+**Tanium**
+> "discovering, analyzing, and prioritizing every point of digital exposure... whether it's a cloud-based VM, on-premises server, third-party integration, or abandoned dev subdomain"
+https://www.tanium.com/blog/what-is-cybersecurity-exposure-management (06.2025)
+
+**Cyera** — слоган теперь с датой:
+> "Data is the fastest growing attack surface in the world."
+https://www.cyera.com/about 
+https://www.cyera.com/press-releases/cyera-report-identifies-data-security-posture-management-dspm-as-the-fastest-growing-security-category
+
+**Hive Pro** «Uni5 Xposure»
+> "Hive Pro is a Threat Exposure Management Platform that addresses all 5 stages of the Continuous Threat and Exposure Management (CTEM) program by Gartner."
+https://www.hivepro.com/platform
+
+**EY (TEM Managed Services)**
+> "TEM Managed Services identifies, detects, reacts and responds to information security threats and vulnerabilities... to reduce cyber risks"
+https://www.ey.com/en_us/services/managed-services/threat-exposure-management 
+
+**SAFE Security**
+> "Exposure management in cybersecurity is the process of identifying, assessing, and mitigating potential vulnerabilities and threats to minimize the risk of cyberattacks on an organization's assets. Unlike traditional vulnerability management, which focuses solely on software flaws (CVEs), exposure management consolidates various exposures—such as misconfigurations, end-of-life (EOL) systems, weak credentials, and control gaps"
+https://safe.security/resources/insights/what-is-exposure-management/
+
+**CyCognito**
+> "Exposure management (EM) is a cybersecurity practice that helps organizations identify and mitigate security risks in real time. It involves identifying access points, digital and physical assets that could be exposed to cyberattacks, mapping the organization's attack surface, assessing risks, prioritizing and mitigating exposures, and continuously monitoring for new exposures."
+https://www.cycognito.com/learn/exposure-management/ 
+
+**Pentera (AEV-лагерь)** 
+> "Exposure Management focuses on identifying, assessing, and mitigating vulnerabilities across digital assets. It involves the identification, evaluation, and mitigation of security risks across an organization's IT infrastructure. Through the continuous monitoring, assessment, and remediation of threats and vulnerabilities, it aims to manage and systematically reduce cyber exposure."
+https://pentera.io/glossary/exposure-management/ 
+
+**Outpost24**
+> "The Outpost24 Exposure Management Platform enables organizations to continuously monitor the attack surface and proactively remediate threats to critical assets."
+https://www.businesswire.com/news/home/20240611313876/en/
+https://outpost24.com/products/exposure-management-platform/ 
+
+**Ivanti**
+> "Exposure management is the practice of proactively and selectively identifying, assessing and mitigating exposures across an organization's digital attack surface... It provides full visibility of assets like servers, endpoints, mobile devices, Internet of Things (IoT) devices and websites and the exposures those can create."
+https://www.ivanti.com/glossary/exposure-management
+
+**Zscaler**
+> "Zscaler Risk360 is a comprehensive framework designed to help quantify and visualize cyber risk... Enhance enterprise exposure management with an actionable risk framework"
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+https://www.zscaler.com/resources/solution-briefs/exposure-management-guide.pdf
+
+**Vicarius**
+> "An Exposure Management Platform is a cybersecurity solution that continuously identifies assets, analyzes exposure risk in business context, and automates remediation workflows to reduce the likelihood of exploitation across your attack surface."
+https://www.vicarius.io/articles/what-is-an-exposure-management-platform-and-how-it-differs-from-vulnerability-management 
+
+**Cisco Vulnerability Management (Kenna)**
+https://www.cisco.com/c/en/us/products/collateral/security/vulnerability-management/vm-vi-appsec-eol.html scores and toward prioritization based on real-world risk») | ЭВИДЕНЦИЯ (конец эпохи RBVM-агрегаторов)
+
+**Bitsight**
+> "An organization's attack surface is the sum of all the devices, access points, and IT assets that attackers may target... Bitsight Security Ratings offer a comprehensive, outside-in view of a company's overall security posture"
+https://www.bitsight.com/glossary/what-is-attack-surface 
+https://www.bitsight.com/glossary/cybersecurity-ratings
+
+**SecurityScorecard**
+> "Your Scorecard rating reflects your organization's security posture and is an objective, data-driven, and quantifiable measure of its overall cybersecurity performance... An organization with an F grade (score of 60 or lower) is statistically 13.8 times more likely to sustain a breach than an organization with an A (score of 90 to 100)"
+https://support.securityscorecard.com/hc/en-us/articles/8366223642651-How-SecurityScorecard-calculates-your-scores 
+
+**UpGuard**
+> "UpGuard is moving beyond a collection of point solutions to a unified, AI-powered platform for Cyber Risk Posture Management (CRPM)... unifies the fragmented cybersecurity landscape by correlating risk across an organization's typically overlooked posture areas; vendor ecosystem, attack surface, and workforce"
+https://www.upguard.com/press/upguard-unveils-the-future-of-cyber-security-with-the-first-ai-powered-crpm-platform
+
+**Francis Odum — Software Analyst Cyber Research**
+Market Guide 2025: Evolution of Modern Risk and Exposure Management Platforms
+https://softwareanalyst.substack.com/p/market-guide-2025-evolution-of-modern 
+
+**Omdia**
+> "Many BAS vendors are looking to expand into the exposure management market through their core competence of exposure validation... Omdia is not convinced that BAS, or any approach, will soon provide continuous security control technical validation."
+https://omdia.tech.informa.com/blogs/2026/mar/how-breach-and-attack-simulation-bas-is-shaping-exposure-management
+
+**GigaOm — Radar for Attack Surface Management 2026**:
+> "Security teams are no longer measured by how many assets they find but by how effectively they prioritize validated risk and reduce real exposure."
+https://www.cycognito.com/resources/reports/gigaom-radar-for-attack-surface-management-2026/
+
+**Cyentia Institute (Wade Baker / Jay Jacobs)**
+https://bit.vt.edu/faculty/directory/baker.html
+
+**Chris Hughes (Resilient Cyber)**
+> "exposure management in cybersecurity, it's essentially the process of continuously identifying, assessing, and mitigating risks associated with..."
+https://www.resilientcyber.io/p/exposure-management-metrics 
+https://www.resilientcyber.io/p/exposure-management-in-the-age-of 
+ 
