@@ -48,12 +48,4 @@ The bulletin is marked as amended, with a last update of 6 May 2026.
 
 ---
 
-# Notes on the figures
-
-**The XM Cyber figures come from two publications, not one.** The 15,000 total, the sub-one-per-cent CVE share and the 80 per cent identity and credential figure are from the May 2024 edition. The 74 per cent dead-end figure comes from a publication in early 2026. The 1.5 per cent choke-point figure is from the 2024 edition. They are dated separately in the article for that reason and should not be read as a single snapshot.
-
-**The choke-point share has already moved.** An earlier edition gave roughly 2 per cent; the 2024 report gives 1.5 per cent. A fourth full annual edition was not publicly available when these sources were checked.
-
-**Two figures were dropped for lack of a primary source.** The frequently quoted ESG/TechTarget figure that 62 per cent of teams rely on basic exploitability scores could not be traced to a primary report and is not used here. Where a comparable data point is needed, Axonius reports that 56 per cent of organisations still rely primarily on blunt scoring systems such as CVSS (April 2026: https://www.axonius.com/blog/forrester-proactive-security-platforms-landscape). Cye was excluded from the corpus for the same reason: no primary source, only a Gartner Peer Insights listing.
-
 **Three vendor claims were checked and left out.** Fortinet’s longer definition could not be found verbatim; the closest primary wording is the CTEM definition in its glossary. Check Point’s exposure dwell time and time-to-safe-remediation metrics do not appear on its product page. Claroty’s figure that 38 per cent of the highest-risk cyber-physical assets are invisible to traditional vulnerability management could not be traced to a primary statement.
