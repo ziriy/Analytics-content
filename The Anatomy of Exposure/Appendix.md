@@ -76,7 +76,7 @@ https://www.forrester.com/blogs/announcing-the-forrester-wave-unified-vulnerabil
 https://www.forrester.com/blogs/proactive-security-platforms-will-cumulate-visibility-prioritization-and-remediation/
 
 **IDC — Exposure Management 2025**
-IDC MarketScape WW Exposure Management Vendor Assessment
+> IDC MarketScape WW Exposure Management Vendor Assessment
 
 **Tenable**
 > "Exposure management is a strategic, business-centric approach to cybersecurity designed to proactively reduce cyber risk."
