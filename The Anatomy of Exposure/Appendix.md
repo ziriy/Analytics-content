@@ -1,19 +1,21 @@
 # Appendix: Sources
 
-The numbering corresponds to the references used in the article. Last update: 12 September 2026.
+The numbering corresponds to the references used in the article. 
+
+Last update: 12 September 2026.
 
 
 **[1]** Approximately 15,000 exposures per organisation; vulnerabilities with CVEs account for less than one per cent of that number; roughly 80 per cent of exposures are identity and credential misconfigurations. Primary source — XM Cyber, *Navigating the Paths of Risk: The State of Exposure Management*, third annual edition, May 2024, report page: https://xmcyber.com/navigating-the-paths-of-risk-the-state-of-exposure-management-in-2024/ (all three figures appear on the page verbatim: "Organizations typically have about 15,000 exposures", "less than 1% of those", "80% of all security exposures"). Press release: https://www.prnewswire.com/news-releases/xm-cyber-report-finds-80-of-security-exposures-are-fueled-by-misconfigurations-302136164.html
 
-Wording note: the 2024 report phrases the 80 per cent finding as "Active Directory typically accounts for 80% of all security exposures", while the press release phrases it as "identity and credential misconfigurations represent a staggering 80% of security exposures". The article follows the press-release wording. Both formulations are XM Cyber/Cyentia, May 2024. The source treats identity and credentials as a combined category; it offers no further breakdown, which is why the article does not offer one either.
+Wording note: the 2024 report phrases the 80 per cent finding as "Active Directory typically accounts for 80% of all security exposures", while the press release phrases it as "identity and credential misconfigurations represent a staggering 80% of security exposures". The article follows the press-release wording. Both formulations are XM Cyber/Cyentia, May 2024.
 
 **[2]** Toxic combination as a scenario in which several risks together create a critical problem. Wiz, *The anatomy of a toxic combination of risk*, January 2025: https://www.wiz.io/blog/the-anatomy-of-a-toxic-combination-of-risk (verbatim anchor: "Toxic combinations represent scenarios where multiple risks come together to form a critical severity issue").
 
-**[3]** A corpus of 47 primary sources on exposure management — analyst firms, platform vendors, specialists in attack paths, validation and remediation, security-ratings companies and independent analysts — collected and verified by the author. For each source, the primary link, date accessed and exact wording were recorded. Sources were classified according to whether they define the object itself (what an exposure is), the exposure-management process, a market category, or merely provide evidence without defining the term. The corpus, with verbatim anchors for every quotation, is maintained as a separate document and was re-verified on 13 September 2026.
+**[3]** A corpus of 47 primary sources on exposure management — analyst firms, platform vendors, specialists in attack paths, validation and remediation, security-ratings companies and independent analysts — collected and verified by the author. For each source, the primary link, date accessed and exact wording were recorded. Sources were classified according to whether they define the object itself (what an exposure is), the exposure-management process, a market category, or merely provide evidence without defining the term.
 
 **[4]** The distinction between vulnerability and exposure through reachability, together with the weak-lock and open-door analogy. Wiz Academy, updated February 2026: https://www.wiz.io/academy/cloud-security/exposure-management-in-cybersecurity (verbatim anchor: "a vulnerability is a door with a weak lock. An exposure is that same door left open and facing the street").
 
-**[5]** Definition of the object: any combination of a vulnerable resource and a credible threat technique along an attack path. XM Cyber, *Want to fix exposure management?*, August 2023: https://xmcyber.com/blog/want-to-fix-exposure-management/ (verbatim anchor: "We define an 'exposure' as any combination of a vulnerable resource and credible threat technique along an attack path"). Note: the same research programme, in its 2024 edition, also formulates the object as "combinations of techniques and entities susceptible to those techniques" (see [13]) — one vendor, two formulations.
+**[5]** Definition of the object: any combination of a vulnerable resource and a credible threat technique along an attack path. XM Cyber, *Want to fix exposure management?*, August 2023: https://xmcyber.com/blog/want-to-fix-exposure-management/ (verbatim anchor: "We define an 'exposure' as any combination of a vulnerable resource and credible threat technique along an attack path").
 
 **[6]** Description of the Exposure Assessment Platforms category, in which vulnerabilities and misconfigurations are given as examples of exposures. Gartner, EAP market page: https://www.gartner.com/reviews/market/exposure-assessment-platforms (verbatim anchor: "exposures, such as vulnerabilities and misconfigurations") — first Magic Quadrant for the category, covering 20 vendors, 10 November 2025: https://www.gartner.com/en/documents/7159430 (vendor list on the public page matches the count of 20).
 
@@ -23,15 +25,15 @@ Wording note: the 2024 report phrases the 80 per cent finding as "Active Directo
 - EAP — Gartner, see [6]
 - AEV — Gartner, *Market Guide for Adversarial Exposure Validation*, Ahlm / Poole et al., 11 March 2025: https://www.gartner.com/en/documents/6255151; second edition published 24 March 2026
 - UVM — Forrester, *The Forrester Wave: Unified Vulnerability Management, Q3 2025*, 29 July 2025: https://www.forrester.com/blogs/announcing-the-forrester-wave-unified-vulnerability-management-wave-q3-2025/
-- TEM — EY, Threat Exposure Management Managed Services: https://www.ey.com/en_us/services/managed-services/threat-exposure-management (page wording as of 13 September 2026: "identifies, detects, reacts and responds to information security threats and vulnerabilities")
+- TEM — EY, Threat Exposure Management Managed Services: https://www.ey.com/en_us/services/managed-services/threat-exposure-management
 - CEM — Armis, Centrix platform: https://www.armis.com/platform/armis-centrix/
-- USEM — ServiceNow, Unified Security Exposure Management: https://store.servicenow.com/store/app/89440738537d765472c95a01a0490e93 (GA confirmed: Store release 11 December 2025, within the Q4 2025 (Zurich) release)
+- USEM — ServiceNow, Unified Security Exposure Management: https://store.servicenow.com/store/app/89440738537d765472c95a01a0490e93
 - UEM — ArmorCode: https://www.armorcode.com/learning-center/what-is-exposure-management-the-complete-guide (verbatim anchor: "UEM is not a product category. It is an approach")
 - ROC — Qualys, launch of Enterprise TruRisk Management and positioning of the Risk Operations Center, 9 October 2024: https://blog.qualys.com/product-tech/2024/10/09/qualys-launches-enterprise-trurisk-management-the-industrys-first-cloud-based-risk-operations-center (verbatim anchor: "the world's first cloud-based Risk Operations Center (ROC)")
 - CREM — Trend Micro: https://www.trendmicro.com/en_us/what-is/attack-surface/cyber-risk-management.html (verbatim anchor confirmed on both the en_us and en_gb pages)
 - CRPM — UpGuard, Cyber Risk Posture Management, 3 September 2025: https://www.upguard.com/press/upguard-unveils-the-future-of-cyber-security-with-the-first-ai-powered-crpm-platform
 
-**[8]** Weaknesses in remediation among exposure-management products and the treatment of UVM as a distinct area. Forrester, *The real future of proactive security isn't finding exposures, it's fixing them*, 12 August 2025: https://www.forrester.com/blogs/the-real-future-of-proactive-security-isnt-finding-exposures-its-fixing-them/ (content verified verbatim; the exact publication day is not printed on the page, the internal context — the UVM Wave published the previous week and Black Hat "last week" — is consistent with the date).
+**[8]** Weaknesses in remediation among exposure-management products and the treatment of UVM as a distinct area. Forrester, *The real future of proactive security isn't finding exposures, it's fixing them*, 12 August 2025: https://www.forrester.com/blogs/the-real-future-of-proactive-security-isnt-finding-exposures-its-fixing-them/
 
 **[9]** The convergence of attack-surface management, exposure management and UVM into the broader market for proactive security platforms. Forrester, 13 November 2025: https://www.forrester.com/blogs/proactive-security-platforms-will-cumulate-visibility-prioritization-and-remediation/ (verbatim anchor: "Forrester will now cover the ASM, exposure management, and UVM markets as the proactive security platforms market").
 
@@ -55,15 +57,14 @@ Data Sources
 https://www.gartner.com/en/documents/4016760
 
 **Gartner — CTEM 2025**
-«Use Continuous Threat Exposure Management to Reduce Cyberattacks», Nunez / Shoard / Schneider
-https://www.gartner.com/en/documents/6735134
+> «Use Continuous Threat Exposure Management to Reduce Cyberattacks», Nunez / Shoard / Schneider https://www.gartner.com/en/documents/6735134
 
 **Gartner — EAP**
 > "Exposure assessment platforms (EAPs) continuously identify and prioritize exposures, such as vulnerabilities and misconfigurations, across a broad range of asset classes. They natively deliver or integrate with discovery capabilities... EAPs use techniques like threat intelligence (TI) to analyze an organization's attack surfaces and weaknesses, and prioritize treatment efforts for high-risk exposures by incorporating threat landscape, business and existing security control context."
 https://www.gartner.com/reviews/market/exposure-assessment-platforms
 
 **Gartner — AEV**
-Market Guide for Adversarial Exposure Validation, Ahlm / Poole et al., https://www.gartner.com/en/documents/6255151
+> Market Guide for Adversarial Exposure Validation, Ahlm / Poole et al., https://www.gartner.com/en/documents/6255151
 
 **Forrester — UVM**
 > "a solution that serves as the primary book of record for all organizational vulnerabilities and improves and facilitates remediation workflows"
@@ -167,7 +168,7 @@ https://www.fortinet.com/demo-center/fortirecon-demo
 > "discovering, analyzing, and prioritizing every point of digital exposure... whether it's a cloud-based VM, on-premises server, third-party integration, or abandoned dev subdomain"
 https://www.tanium.com/blog/what-is-cybersecurity-exposure-management (06.2025)
 
-**Cyera** — слоган теперь с датой:
+**Cyera**
 > "Data is the fastest growing attack surface in the world."
 https://www.cyera.com/about 
 https://www.cyera.com/press-releases/cyera-report-identifies-data-security-posture-management-dspm-as-the-fastest-growing-security-category
@@ -188,7 +189,7 @@ https://safe.security/resources/insights/what-is-exposure-management/
 > "Exposure management (EM) is a cybersecurity practice that helps organizations identify and mitigate security risks in real time. It involves identifying access points, digital and physical assets that could be exposed to cyberattacks, mapping the organization's attack surface, assessing risks, prioritizing and mitigating exposures, and continuously monitoring for new exposures."
 https://www.cycognito.com/learn/exposure-management/ 
 
-**Pentera (AEV-лагерь)** 
+**Pentera** 
 > "Exposure Management focuses on identifying, assessing, and mitigating vulnerabilities across digital assets. It involves the identification, evaluation, and mitigation of security risks across an organization's IT infrastructure. Through the continuous monitoring, assessment, and remediation of threats and vulnerabilities, it aims to manage and systematically reduce cyber exposure."
 https://pentera.io/glossary/exposure-management/ 
 
