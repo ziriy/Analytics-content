@@ -1,6 +1,6 @@
 # Appendix: Sources
 
-The numbering corresponds to the references used in the article. The date of links review is 12 September 2026.
+The numbering corresponds to the references used in the article. Last update: 12 September 2026.
 
 
 **[1]** Approximately 15,000 exposures per organisation; vulnerabilities with CVEs account for less than one per cent of that number; roughly 80 per cent of exposures are identity and credential misconfigurations. Primary source — XM Cyber, *Navigating the Paths of Risk: The State of Exposure Management*, third annual edition, May 2024, report page: https://xmcyber.com/navigating-the-paths-of-risk-the-state-of-exposure-management-in-2024/ (all three figures appear on the page verbatim: "Organizations typically have about 15,000 exposures", "less than 1% of those", "80% of all security exposures"). Press release: https://www.prnewswire.com/news-releases/xm-cyber-report-finds-80-of-security-exposures-are-fueled-by-misconfigurations-302136164.html
@@ -46,4 +46,5 @@ The bulletin is marked as amended, with a last update of 6 May 2026. Vendor comm
 **[12]** Seventy-four per cent of identified exposures are dead ends. XM Cyber, *Navigating the Paths of Risk: The State of Exposure Management*, 2024 edition (primary, verbatim anchor: "The majority (74%) of security exposures… are on dead ends"): https://xmcyber.com/navigating-the-paths-of-risk-the-state-of-exposure-management-in-2024/ — corroborated by XM Cyber's blog of January 2026: https://xmcyber.com/blog/xm-cybers-2025-milestones-and-what-they-mean-for-you/ ("74% of identified exposures are 'dead ends'"). The article's phrasing ("said in early 2026") reflects the corroborating source; the figure originates in the 2024 research.
 
 **[13]** Approximately 1.5 per cent of exposures sit on choke points. XM Cyber, 2024 report: https://xmcyber.com/navigating-the-paths-of-risk-the-state-of-exposure-management-in-2024/ (verbatim anchor: "a similar ratio (1.5%)"). The same page also carries the headline figure "~2% of exposures affect critical assets and/or represent choke points" — both values appear within the 2024 edition itself.
+
 ---
