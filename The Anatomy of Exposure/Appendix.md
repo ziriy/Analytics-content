@@ -52,6 +52,7 @@ The bulletin is marked as amended, with a last update of 6 May 2026. Vendor comm
 ---
 
 Data Sources
+
 **Gartner — CTEM**
 > "a set of processes and capabilities that allow enterprises to continually and consistently evaluate the accessibility, exposure and exploitability of an enterprise's digital and physical assets"
 https://www.gartner.com/en/documents/4016760
@@ -133,7 +134,7 @@ https://xmcyber.com/navigating-the-paths-of-risk-the-state-of-exposure-managemen
 
 **Armis**
 > "Armis Centrix™ is the cyber exposure management platform that delivers real-time visibility, risk assessment and proactive protection of the entire digital attack surface"
-https://www.armis.com/platform/armis-centrix/ | **[V]** (перепроверено 13.09.2026, дословно) | КАТЕГОРИЯ/ПРОЦЕСС
+https://www.armis.com/platform/armis-centrix/
 
 **Zafran**
 > "Map exposures to compensating controls... Existing control mitigations"; Mitigate и Remediate 
@@ -212,7 +213,7 @@ https://www.zscaler.com/resources/solution-briefs/exposure-management-guide.pdf
 https://www.vicarius.io/articles/what-is-an-exposure-management-platform-and-how-it-differs-from-vulnerability-management 
 
 **Cisco Vulnerability Management (Kenna)**
-https://www.cisco.com/c/en/us/products/collateral/security/vulnerability-management/vm-vi-appsec-eol.html scores and toward prioritization based on real-world risk») | ЭВИДЕНЦИЯ (конец эпохи RBVM-агрегаторов)
+> https://www.cisco.com/c/en/us/products/collateral/security/vulnerability-management/vm-vi-appsec-eol.html scores and toward prioritization based on real-world risk»)
 
 **Bitsight**
 > "An organization's attack surface is the sum of all the devices, access points, and IT assets that attackers may target... Bitsight Security Ratings offer a comprehensive, outside-in view of a company's overall security posture"
