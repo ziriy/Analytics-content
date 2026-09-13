@@ -241,7 +241,7 @@ https://omdia.tech.informa.com/blogs/2026/mar/how-breach-and-attack-simulation-b
 https://www.cycognito.com/resources/reports/gigaom-radar-for-attack-surface-management-2026/
 
 **Cyentia Institute (Wade Baker / Jay Jacobs)**
-https://bit.vt.edu/faculty/directory/baker.html
+> https://bit.vt.edu/faculty/directory/baker.html
 
 **Chris Hughes (Resilient Cyber)**
 > "exposure management in cybersecurity, it's essentially the process of continuously identifying, assessing, and mitigating risks associated with..."
