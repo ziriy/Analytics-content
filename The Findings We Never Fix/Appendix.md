@@ -3,11 +3,11 @@ The numbering corresponds to the references used in the article.
 
 Last update: 11 November 2026.
 
-[1] FIRST. «FIRST Mid-Year Vulnerability Forecast Confirms Historic Surge, Projects ~66,000 CVEs in 2026».  
+[1] FIRST. «FIRST Mid-Year Vulnerability Forecast Confirms Historic Surge, Projects ~66,000 CVEs in 2026».
 https://www.first.org/newsroom/releases/20260615
-[2] J. Stucke. «Rethinking Vulnerability Remediation as a Capacity Allocation Problem» arXiv:2608.28509. 
+[2] J. Stucke. «Rethinking Vulnerability Remediation as a Capacity Allocation Problem» arXiv:2608.28509.
 https://arxiv.org/abs/2608.28509
-[3] Michael Roytman, Empirical Security. «Capacity is King». 
+[3] Michael Roytman, Empirical Security. «Capacity is King».
 https://research.empiricalsecurity.com/research/capacity-is-king
 [4] Cyentia Institute/SecurityScorecard. «The Fast and the Frivolous: Pacing Remediation of Internet-Facing Vulnerabilities». 
 https://securityscorecard.com/wp-content/uploads/2024/01/Research-Cyentia-Fast-And-Frivolous.pdf
